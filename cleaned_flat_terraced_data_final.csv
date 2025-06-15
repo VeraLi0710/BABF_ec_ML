@@ -116,7 +116,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,seconda
 1967-1982,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,11.0,up to 2,78,boiler,mains gas,6959,owner-occupied,1967-1982,0.32,0.0,0.25,2.4
 1967-1982,solid,insulated,flat,insulated,double/triple,end-terrace,flat,38,4.0,up to 2,60,room/storage heaters,electricity,3189,private-rented,1967-1982,0.35,0.28,0.25,2.4
 1967-1982,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,11.0,up to 2,78,boiler,mains gas,6959,owner-occupied,1967-1982,0.32,0.0,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,insulated,secondary,mid-terrace,flat,90,3.0,4,73,boiler,mains gas,10827,private-rented,pre-1920,1.7,,0.25,2.82
+pre-1900,solid,uninsulated,room in roof,insulated,secondary,mid-terrace,flat,90,3.0,4,73,boiler,mains gas,10827,private-rented,pre-1920,1.7,0.25,0.25,2.82
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,47,11.0,3,71,boiler,electricity,2861,private-rented,pre-1920,1.7,0.0,0.25,2.4
 pre-1900,solid,uninsulated,pitched,insulated,secondary,mid-terrace,flat,70,3.0,3,67,boiler,mains gas,12723,owner-occupied,pre-1920,1.7,0.25,0.25,2.82
 pre-1900,cavity,insulated,pitched,insulated,double/triple,mid-terrace,flat,88,3.0,3,75,boiler,mains gas,11278,private-rented,pre-1920,0.37,0.25,0.25,2.4
@@ -147,7 +147,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,49,11.0,up to 2,64,boiler,mains gas,12027,social,1983-1995,0.25,0.0,0.25,5.75
 1967-1982,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,11.0,up to 2,78,boiler,mains gas,6959,owner-occupied,1967-1982,0.32,0.0,0.25,2.4
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,50,11.0,up to 2,62,boiler,electricity,4775,private-rented,1983-1995,0.25,0.0,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,127,3.0,5,60,boiler,mains gas,24236,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,127,3.0,5,60,boiler,mains gas,24236,private-rented,pre-1920,1.7,2.3,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,53,4.0,3,74,boiler,mains gas,8762,private-rented,pre-1920,1.7,0.0,0.25,2.4
 1967-1982,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,11.0,up to 2,78,boiler,mains gas,6959,owner-occupied,1967-1982,0.32,0.0,0.25,2.4
 1967-1982,cavity,uninsulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,49,11.0,up to 2,77,boiler,mains gas,5014,owner-occupied,1967-1982,1.0,0.0,0.25,2.4
@@ -239,7 +239,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,48,11.0,up to 2,80,boiler,mains gas,4954,private-rented,1983-1995,0.25,0.0,0.25,2.4
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,84,4.0,3,55,room/storage heaters,electricity,6236,owner-occupied,1930-1949,1.7,0.0,0.25,2.4
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,48,11.0,up to 2,75,boiler,mains gas,7370,private-rented,1983-1995,0.25,0.0,0.25,5.75
-pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,111,4.0,5,62,boiler,mains gas,24355,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,111,4.0,5,62,boiler,mains gas,24355,private-rented,pre-1920,1.7,2.3,0.25,2.4
 1967-1982,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,11.0,up to 2,78,boiler,mains gas,6959,owner-occupied,1967-1982,0.32,0.0,0.25,2.4
 1950-1966,cavity,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,60,6.0,3,72,boiler,mains gas,10147,owner-occupied,1950-1966,1.0,0.0,0.25,2.4
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,47,8.0,up to 2,64,communal,mains gas,11672,owner-occupied,1930-1949,1.7,0.0,0.25,5.75
@@ -639,7 +639,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,seconda
 1900-1929,solid,uninsulated,pitched,uninsulated,double/triple,mid-terrace,flat,101,4.0,4,71,communal,mains gas,15166,owner-occupied,pre-1920,1.7,2.3,0.25,2.4
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,19,5.0,up to 2,66,communal,mains gas,6128,owner-occupied,pre-1920,1.7,0.0,0.25,2.4
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,48,4.0,up to 2,59,boiler,mains gas,12293,private-rented,pre-1920,1.7,0.0,0.25,2.4
-1900-1929,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,84,4.0,4,51,communal,mains gas,24658,private-rented,pre-1920,1.7,,0.25,2.4
+1900-1929,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,84,4.0,4,51,communal,mains gas,24658,private-rented,pre-1920,1.7,2.3,0.25,2.4
 pre-1900,solid,uninsulated,pitched,uninsulated,single/partial,end-terrace,flat,66,5.0,4,50,communal,mains gas,23459,private-rented,pre-1920,1.7,2.3,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,46,4.0,up to 2,66,boiler,mains gas,10748,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,54,3.0,3,72,boiler,mains gas,9985,owner-occupied,pre-1920,1.7,0.0,0.25,2.4
@@ -691,7 +691,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,seconda
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,70,5.0,3,61,communal,mains gas,17795,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,47,3.0,up to 2,69,boiler,mains gas,10045,private-rented,pre-1920,1.7,0.0,0.25,5.75
 1900-1929,solid,insulated,pitched,insulated,double/triple,mid-terrace,flat,128,3.0,5,79,boiler,mains gas,8169,owner-occupied,pre-1920,0.55,0.25,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,insulated,secondary,mid-terrace,flat,118,3.0,7 to 8,64,boiler,mains gas,23574,private-rented,pre-1920,1.7,,0.25,2.82
+pre-1900,solid,uninsulated,room in roof,insulated,secondary,mid-terrace,flat,118,3.0,7 to 8,64,boiler,mains gas,23574,private-rented,pre-1920,1.7,0.25,0.25,2.82
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,64,3.0,3,69,boiler,mains gas,10310,private-rented,pre-1920,1.7,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,38,4.0,up to 2,68,boiler,mains gas,7846,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,43,3.0,3,69,boiler,mains gas,9334,private-rented,pre-1920,1.7,0.0,0.25,2.4
@@ -922,7 +922,7 @@ pre-1900,solid,uninsulated,pitched,uninsulated,single/partial,mid-terrace,flat,7
 pre-1900,solid,uninsulated,pitched,uninsulated,single/partial,mid-terrace,flat,118,3.0,4,68,boiler,mains gas,17733,owner-occupied,pre-1920,1.7,2.3,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,47,5.0,up to 2,72,boiler,mains gas,8243,social,pre-1920,1.7,0.0,0.25,5.75
 1950-1966,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,53,5.0,up to 2,70,boiler,mains gas,10178,social,1950-1966,1.36,0.0,0.25,5.75
-pre-1900,solid,uninsulated,room in roof,uninsulated,single/partial,mid-terrace,flat,99,5.0,5,59,boiler,mains gas,20411,social,pre-1920,1.7,,0.25,5.75
+pre-1900,solid,uninsulated,room in roof,uninsulated,single/partial,mid-terrace,flat,99,5.0,5,59,boiler,mains gas,20411,social,pre-1920,1.7,2.3,0.25,5.75
 2012-onwards,solid,insulated,pitched,insulated,single/partial,mid-terrace,flat,63,4.0,3,70,boiler,mains gas,9857,social,2012-onwards,0.16,0.25,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,mid-terrace,flat,112,3.0,5,68,boiler,mains gas,16350,owner-occupied,pre-1920,1.7,0.0,0.25,2.82
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,86,4.0,3,73,boiler,mains gas,10636,social,2012-onwards,0.16,0.0,0.25,5.75
@@ -1042,7 +1042,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,34,2.0,up to 2,74,communal,mains gas,6081,private-rented,pre-1920,1.7,0.0,0.25,2.4
 pre-1900,solid,uninsulated,pitched,insulated,single/partial,mid-terrace,flat,63,4.0,3,42,room/storage heaters,electricity,10147,private-rented,pre-1920,1.7,0.25,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,39,3.0,up to 2,42,room/storage heaters,electricity,5686,private-rented,pre-1920,1.7,0.0,0.25,5.75
-1900-1929,solid,uninsulated,room in roof,uninsulated,double/triple,mid-terrace,flat,49,5.0,up to 2,59,boiler,mains gas,14761,owner-occupied,pre-1920,1.7,,0.25,2.4
+1900-1929,solid,uninsulated,room in roof,uninsulated,double/triple,mid-terrace,flat,49,5.0,up to 2,59,boiler,mains gas,14761,owner-occupied,pre-1920,1.7,2.3,0.25,2.4
 pre-1900,solid,uninsulated,pitched,insulated,double/triple,mid-terrace,flat,31,4.0,up to 2,42,room/storage heaters,electricity,7923,owner-occupied,pre-1920,1.7,0.25,0.25,2.4
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,34,2.0,up to 2,67,communal,mains gas,8811,private-rented,pre-1920,1.7,0.0,0.25,2.4
 pre-1900,cavity,uninsulated,flat,uninsulated,single/partial,mid-terrace,flat,48,3.0,up to 2,32,room/storage heaters,electricity,7455,owner-occupied,pre-1920,1.5,2.3,0.25,5.75
@@ -1114,8 +1114,8 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,28,4.0,up to 2,53,room/storage heaters,electricity,7360,owner-occupied,pre-1920,1.7,0.0,0.25,2.82
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,57,4.0,3,66,boiler,mains gas,12294,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,63,4.0,3,70,boiler,mains gas,10738,private-rented,pre-1920,1.7,0.0,0.25,2.4
-1900-1929,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,22,5.0,up to 2,82,boiler,mains gas,4593,owner-occupied,pre-1920,1.7,,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,444,5.0,9 or more,45,boiler,mains gas,131454,owner-occupied,pre-1920,1.7,,0.25,2.4
+1900-1929,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,22,5.0,up to 2,82,boiler,mains gas,4593,owner-occupied,pre-1920,1.7,0.25,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,444,5.0,9 or more,45,boiler,mains gas,131454,owner-occupied,pre-1920,1.7,0.25,0.25,2.4
 2012-onwards,solid,insulated,pitched,insulated,double/triple,mid-terrace,flat,45,3.0,3,78,boiler,mains gas,4583,private-rented,2012-onwards,0.16,0.25,0.25,2.4
 pre-1900,cavity,insulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,81,4.0,3,73,boiler,mains gas,11662,private-rented,pre-1920,0.37,0.0,0.25,5.75
 pre-1900,solid,uninsulated,pitched,uninsulated,single/partial,mid-terrace,flat,112,4.0,4,64,boiler,mains gas,23210,private-rented,pre-1920,1.7,2.3,0.25,5.75
@@ -2043,9 +2043,6 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
 1900-1929,cavity,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,100,1.0,4,75,boiler,mains gas,10589,private-rented,pre-1920,1.5,0.0,0.25,2.4
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,31,,up to 2,67,other,electricity,2831,private-rented,pre-1920,1.7,0.0,0.25,2.82
-1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
-1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
-1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,29,,up to 2,68,other,electricity,2777,private-rented,pre-1920,1.7,0.0,0.25,2.82
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,29,,up to 2,68,other,electricity,2777,private-rented,pre-1920,1.7,0.0,0.25,2.82
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
@@ -2058,7 +2055,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/
 1930-1949,cavity,uninsulated,flat,uninsulated,double/triple,end-terrace,flat,216,7.0,7 to 8,61,boiler,mains gas,36333,private-rented,1930-1949,1.5,2.3,0.25,2.4
 1930-1949,cavity,uninsulated,flat,uninsulated,double/triple,end-terrace,flat,216,7.0,7 to 8,61,boiler,mains gas,36333,private-rented,1930-1949,1.5,2.3,0.25,2.4
 1930-1949,cavity,uninsulated,flat,uninsulated,double/triple,end-terrace,flat,216,7.0,7 to 8,61,boiler,mains gas,36333,private-rented,1930-1949,1.5,2.3,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,insulated,single/partial,mid-terrace,flat,82,4.0,4,59,room/storage heaters,electricity,5390,private-rented,pre-1920,1.7,,0.25,5.75
+pre-1900,solid,uninsulated,room in roof,insulated,single/partial,mid-terrace,flat,82,4.0,4,59,room/storage heaters,electricity,5390,private-rented,pre-1920,1.7,0.25,0.25,5.75
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,71,7.0,3,64,boiler,mains gas,15544,private-rented,1930-1949,1.7,0.0,0.25,5.75
 1930-1949,cavity,uninsulated,flat,uninsulated,double/triple,end-terrace,flat,312,7.0,7 to 8,61,boiler,mains gas,56998,private-rented,1930-1949,1.5,2.3,0.25,2.4
 1930-1949,cavity,uninsulated,flat,uninsulated,double/triple,end-terrace,flat,216,7.0,7 to 8,61,boiler,mains gas,36333,private-rented,1930-1949,1.5,2.3,0.25,2.4
@@ -2189,7 +2186,7 @@ pre-1900,solid,uninsulated,pitched,insulated,single/partial,mid-terrace,flat,58,
 1950-1966,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,44,5.0,3,70,boiler,mains gas,7815,owner-occupied,1950-1966,1.36,0.0,0.25,2.82
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,42,4.0,up to 2,76,boiler,mains gas,7078,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,pitched,uninsulated,single/partial,mid-terrace,flat,73,4.0,4,51,boiler,mains gas,19208,owner-occupied,pre-1920,1.7,2.3,0.25,5.75
-1996-2011,cavity,insulated,room in roof,insulated,double/triple,mid-terrace,flat,161,3.0,4,79,boiler,mains gas,13582,owner-occupied,1996-2011,0.18,,0.25,2.4
+1996-2011,cavity,insulated,room in roof,insulated,double/triple,mid-terrace,flat,161,3.0,4,79,boiler,mains gas,13582,owner-occupied,1996-2011,0.18,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,34,4.0,up to 2,67,boiler,mains gas,7685,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,30,3.0,up to 2,67,boiler,mains gas,7005,private-rented,pre-1920,1.7,0.0,0.25,5.75
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,29,4.0,up to 2,40,room/storage heaters,electricity,5724,private-rented,pre-1920,1.7,0.0,0.25,5.75
@@ -2529,7 +2526,7 @@ pre-1900,solid,insulated,another dwelling above,another dwelling above,double/tr
 1983-1995,solid,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,53,5.0,3,76,boiler,mains gas,7458,private-rented,1983-1995,0.35,0.0,0.25,2.4
 pre-1900,solid,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,58,4.0,up to 2,73,heat pump,electricity,4155,owner-occupied,pre-1920,0.55,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,30,4.0,up to 2,77,boiler,mains gas,4018,private-rented,pre-1920,1.7,0.0,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,uninsulated,single/partial,mid-terrace,flat,51,4.0,3,63,boiler,mains gas,11579,private-rented,pre-1920,1.7,,0.25,5.75
+pre-1900,solid,uninsulated,room in roof,uninsulated,single/partial,mid-terrace,flat,51,4.0,3,63,boiler,mains gas,11579,private-rented,pre-1920,1.7,2.3,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,51,4.0,up to 2,72,boiler,mains gas,9685,private-rented,pre-1920,1.7,0.0,0.25,2.4
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,44,3.0,up to 2,74,boiler,mains gas,7359,private-rented,pre-1920,1.7,0.0,0.25,5.75
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,63,,3,86,heat pump,electricity,1861,owner-occupied,2012-onwards,0.16,0.0,0.25,2.4
@@ -2601,7 +2598,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,seconda
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,25,3.0,up to 2,71,boiler,mains gas,5427,owner-occupied,pre-1920,1.7,0.0,0.25,2.4
 2012-onwards,solid,insulated,pitched,insulated,double/triple,end-terrace,flat,97,3.0,4,84,boiler,mains gas,5039,private-rented,2012-onwards,0.16,0.25,0.25,2.4
 pre-1900,solid,uninsulated,pitched,uninsulated,double/triple,end-terrace,flat,73,3.0,4,59,boiler,mains gas,17495,private-rented,pre-1920,1.7,2.3,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,mid-terrace,flat,147,3.0,4,45,boiler,mains gas,38615,owner-occupied,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,mid-terrace,flat,147,3.0,4,45,boiler,mains gas,38615,owner-occupied,pre-1920,1.7,2.3,0.25,2.4
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,50,3.0,3,82,boiler,mains gas,3371,private-rented,2012-onwards,0.16,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,40,3.0,up to 2,70,boiler,mains gas,7397,private-rented,pre-1920,1.7,0.0,0.25,2.4
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,40,4.0,up to 2,73,boiler,mains gas,6039,private-rented,1930-1949,1.7,0.0,0.25,5.75
@@ -2685,7 +2682,7 @@ pre-1900,solid,uninsulated,flat,uninsulated,double/triple,mid-terrace,flat,220,3
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,60,5.0,3,80,boiler,mains gas,4395,private-rented,1983-1995,0.25,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,61,3.0,3,67,boiler,mains gas,12666,owner-occupied,pre-1920,1.7,0.0,0.25,2.4
 1900-1929,solid,uninsulated,flat,uninsulated,double/triple,mid-terrace,flat,35,3.0,up to 2,53,boiler,mains gas,12256,private-rented,pre-1920,1.7,2.3,0.25,2.4
-pre-1900,solid,insulated,room in roof,insulated,double/triple,end-terrace,flat,86,3.0,3,81,boiler,mains gas,6611,private-rented,pre-1920,0.55,,0.25,2.4
+pre-1900,solid,insulated,room in roof,insulated,double/triple,end-terrace,flat,86,3.0,3,81,boiler,mains gas,6611,private-rented,pre-1920,0.55,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,63,4.0,3,68,boiler,mains gas,12584,private-rented,pre-1920,1.7,0.0,0.25,5.75
 1930-1949,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,40,4.0,up to 2,73,boiler,mains gas,6039,private-rented,1930-1949,1.7,0.0,0.25,5.75
 pre-1900,solid,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,47,6.0,up to 2,80,boiler,mains gas,3625,private-rented,pre-1920,0.55,0.0,0.25,2.4
@@ -2799,7 +2796,7 @@ pre-1900,solid,uninsulated,flat,uninsulated,double/triple,mid-terrace,flat,86,3.
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,38,4.0,up to 2,73,boiler,mains gas,5998,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,29,3.0,up to 2,71,boiler,mains gas,5687,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,mid-terrace,flat,77,,3,71,boiler,mains gas,12493,private-rented,pre-1920,1.7,0.0,0.25,2.82
-pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,61,3.0,3,74,boiler,mains gas,9330,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,61,3.0,3,74,boiler,mains gas,9330,private-rented,pre-1920,1.7,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,38,3.0,up to 2,67,boiler,mains gas,9537,private-rented,pre-1920,1.7,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,51,3.0,up to 2,75,boiler,mains gas,6827,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,56,5.0,3,68,boiler,mains gas,12858,social,pre-1920,1.7,0.0,0.25,5.75
@@ -2832,7 +2829,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,28,4.0,up to 2,75,boiler,mains gas,6095,private-rented,pre-1920,1.7,0.0,0.25,5.75
 1996-2011,solid,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,33,4.0,up to 2,73,room/storage heaters,electricity,2457,private-rented,1996-2011,0.19,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,47,4.0,up to 2,61,boiler,mains gas,12599,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
-pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,58,3.0,3,74,boiler,mains gas,7603,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,58,3.0,3,74,boiler,mains gas,7603,private-rented,pre-1920,1.7,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,50,4.0,up to 2,72,boiler,mains gas,9151,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,44,4.0,up to 2,75,boiler,mains gas,7980,private-rented,pre-1920,1.7,0.0,0.25,2.82
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,56,5.0,3,68,boiler,mains gas,12858,social,pre-1920,1.7,0.0,0.25,5.75
@@ -2858,7 +2855,7 @@ pre-1900,solid,insulated,pitched,insulated,double/triple,end-terrace,flat,117,3.
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,70,,3,82,heat pump,electricity,3887,private-rented,2012-onwards,0.16,0.0,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,end-terrace,flat,36,4.0,up to 2,66,boiler,mains gas,8045,private-rented,pre-1920,1.7,0.0,0.25,2.82
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,secondary,mid-terrace,flat,44,4.0,up to 2,69,boiler,mains gas,9715,private-rented,pre-1920,1.7,0.0,0.25,2.82
-pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,85,3.0,3,76,boiler,mains gas,8348,owner-occupied,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,85,3.0,3,76,boiler,mains gas,8348,owner-occupied,pre-1920,1.7,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,end-terrace,flat,51,4.0,up to 2,67,boiler,mains gas,11375,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
 2012-onwards,solid,insulated,pitched,insulated,double/triple,end-terrace,flat,74,,3,85,communal,mains gas,5127,private-rented,2012-onwards,0.16,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,56,5.0,3,68,boiler,mains gas,12858,social,pre-1920,1.7,0.0,0.25,5.75
@@ -3466,7 +3463,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/
 1900-1929,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,31,4.0,up to 2,66,boiler,mains gas,7477,private-rented,pre-1920,1.7,0.0,0.25,5.75
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,double/triple,end-terrace,flat,84,5.0,3,72,room/storage heaters,electricity,9597,private-rented,1983-1995,0.25,0.0,0.25,2.4
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,100,6.0,3,84,boiler,mains gas,5750,private-rented,2012-onwards,0.16,0.0,0.25,2.4
-pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,75,5.0,3,57,boiler,mains gas,17771,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,uninsulated,double/triple,end-terrace,flat,75,5.0,3,57,boiler,mains gas,17771,private-rented,pre-1920,1.7,2.3,0.25,2.4
 1983-1995,cavity,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,59,5.0,3,77,boiler,mains gas,8243,social,1983-1995,0.25,0.0,0.25,2.4
 1983-1995,solid,insulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,58,5.0,up to 2,72,boiler,mains gas,10867,social,1983-1995,0.35,0.0,0.25,5.75
 2012-onwards,solid,insulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,69,6.0,up to 2,68,boiler,electricity,3866,private-rented,2012-onwards,0.16,0.0,0.25,2.4
@@ -4385,7 +4382,7 @@ pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,double/triple,mid-terrace,flat,40,4.0,up to 2,72,boiler,mains gas,6600,private-rented,pre-1920,1.7,0.0,0.25,2.4
 1967-1982,cavity,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,44,4.0,up to 2,70,communal,mains gas,10039,social,1967-1982,1.0,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,50,5.0,up to 2,62,boiler,mains gas,13705,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
-pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,176,5.0,5,41,boiler,electricity,16254,private-rented,pre-1920,1.7,,0.25,2.4
+pre-1900,solid,uninsulated,room in roof,insulated,double/triple,mid-terrace,flat,176,5.0,5,41,boiler,electricity,16254,private-rented,pre-1920,1.7,0.25,0.25,2.4
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,52,4.0,up to 2,67,boiler,mains gas,12149,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,52,4.0,up to 2,67,boiler,mains gas,12149,private-rented,pre-1920,1.7,0.0,0.25,5.75
 pre-1900,solid,uninsulated,another dwelling above,another dwelling above,single/partial,mid-terrace,flat,33,5.0,up to 2,65,boiler,mains gas,8550,owner-occupied,pre-1920,1.7,0.0,0.25,5.75
