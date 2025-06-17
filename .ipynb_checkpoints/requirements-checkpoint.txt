@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy==2.0.2
+pandas
+scikit-learn==1.7.0
+matplotlib
+plotly
+joblib==1.4.2
+onnxruntime
